@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0066-plus-one) |
 | [2235-add-two-integers](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
