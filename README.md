@@ -17,8 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0344-reverse-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0066-plus-one) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
