@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0877-stone-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
