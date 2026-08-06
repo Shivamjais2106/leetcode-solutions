@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/0877-stone-game) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Shivamjais2106/leetcode-solutions/tree/master/2942-find-words-containing-character) |
