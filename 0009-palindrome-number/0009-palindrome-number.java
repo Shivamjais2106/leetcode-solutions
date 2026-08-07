@@ -6,10 +6,10 @@ class Solution {
             return false;
         }
         while(x>0){
-            int digits = x%10;
-            reverse = reverse*10+digits;
+            int digit = x%10;
+            reverse = reverse*10+digit;
             x = x/10;
         }
-        return original == reverse;
+        return reverse == original;
     }
 }
